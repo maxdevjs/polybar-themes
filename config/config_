@@ -1,0 +1,11 @@
+
+include-file = /mnt/devel/prjs/personal/dotfiles/my/polybar/polybar-themes/polybar-1/config.amber
+
+monitor = LVDS-1
+
+;== Module Location ========================================================
+
+modules-left-config = settings
+#modules-left-config = arch workspaces term files browser settings
+#modules-right = mpd pkg volume battery network date powermenu
+ 
